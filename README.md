@@ -1,5 +1,6 @@
 ## Hi there 👋
-## I am a sophermore from Xiamen University.I am currently learning how to use github effectively and prepare for my further exploration of Internet world
+## I am a sophermore from Xiamen University.
+## I am currently learning how to use github effectively and prepare for my further exploration of Internet world
 <!--
 **zwxxmu/zwxxmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
